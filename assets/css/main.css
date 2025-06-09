@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.router-link-active {
+  @apply text-pink-50 bg-yellow-600;
+}
